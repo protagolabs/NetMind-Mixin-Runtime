@@ -1,6 +1,0 @@
-setup.py
-NetmindMixins.egg-info/PKG-INFO
-NetmindMixins.egg-info/SOURCES.txt
-NetmindMixins.egg-info/dependency_links.txt
-NetmindMixins.egg-info/requires.txt
-NetmindMixins.egg-info/top_level.txt
