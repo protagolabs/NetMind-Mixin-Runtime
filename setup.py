@@ -20,7 +20,7 @@ setup(name='NetmindMixins',
             'protobuf==3.20.*',
             'grpcio==1.51.1',
             'grpcio-tools==1.48.2',
-            'cryptocode'
+            'cryptography'
       ],
       python_requires='>=3'
      )
