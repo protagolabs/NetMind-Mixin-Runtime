@@ -7,7 +7,7 @@ setup(name='NetmindMixins',
       author_email='yi.zhou@protagolabs.com',
       url='https://www.protagolabs.ai/',
       packages=find_packages(),
-      package_data={"NetmindMixins": ["*.so"], "NetmindMixins.proto": ["*.so"]},
+      package_data={"NetmindMixins": ["*.so", "*.crt"]},
       install_requires=[
             'boto3==1.26.51',
             'retry',
