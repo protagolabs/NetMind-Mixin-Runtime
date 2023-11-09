@@ -1,7 +1,7 @@
 from setuptools import setup,find_packages
 
 setup(name='NetmindMixins_py310',
-      version='1.0.0',
+      version='1.1.0',
       description='Netmind python lib, created to speed up conversion of model code',
       author='yi zhou',
       author_email='yi.zhou@protagolabs.com',
